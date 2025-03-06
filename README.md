@@ -136,6 +136,11 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 ```sh
 p10k configure
 ```
+Caso não esteja reconhecendo os ícones na configuração do terminal e terminal do vscode executar os passos abaixo. 
+
+Terminal Windows da Microsoft (a novidade): Abra Configurações ( Ctrl+,), clique no perfil selecionado em Perfis ou em Padrões , clique em Aparência e defina a Fonte como MesloLGS NF.
+
+Visual Studio Code : Abra Arquivo → Preferências → Configurações (PC) ou Código → Preferências → Configurações (Mac), digite terminal.integrated.fontFamilyna caixa de pesquisa na parte superior da aba Configurações e defina o valor abaixo como MesloLGS NF. Consulte [esta captura de tela](https://raw.githubusercontent.com/romkatv/powerlevel10k-media/389133fb8c9a2347929a23702ce3039aacc46c3d/visual-studio-code-font-settings.jpg) para ver como deve ficar ou veja [este problema](https://github.com/romkatv/powerlevel10k/issues/671) para obter informações extras.
 
 ---
 
